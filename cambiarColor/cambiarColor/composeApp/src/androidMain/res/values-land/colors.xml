@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_texto">#0000FF</color> <!-- Color Z -->
+    <color name="color_fondo">#81B3E2</color> <!-- Fondo 3 -->
+</resources>

@@ -1,0 +1,24 @@
+CREATE TABLE movie (
+  id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  title TEXT NOT NULL,
+  director TEXT NOT NULL,
+  year INTEGER NOT NULL
+);
+
+selectAll:
+SELECT *
+FROM movie
+ORDER BY id DESC;
+
+insertMovie:
+INSERT INTO movie(title, director, year)
+VALUES (?, ?, ?);
+
+updateMovie:
+UPDATE movie
+SET title = ?, director = ?, year = ?
+WHERE id = ?;
+
+deleteMovie:
+DELETE FROM movie
+WHERE id = ?;

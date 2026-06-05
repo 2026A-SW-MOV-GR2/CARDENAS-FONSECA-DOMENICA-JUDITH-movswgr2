@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_texto">#F7F1F8</color> <!-- Color W -->
+    <color name="color_fondo">#040402</color> <!-- Fondo 4 -->
+</resources>

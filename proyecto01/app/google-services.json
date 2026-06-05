@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643178958723",
+    "project_id": "a-mov-swgr2-djcf",
+    "storage_bucket": "a-mov-swgr2-djcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643178958723:android:cdbb9941726271671370b6",
+        "android_client_info": {
+          "package_name": "com.example.movswgr22026a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSxwiRGRV3spwQJY-q0MPPkmgCDi8nKhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
